@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Memoseum (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Memoseum (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
