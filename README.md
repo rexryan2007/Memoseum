@@ -16,7 +16,7 @@ I regularly conceive ideas, reflect on events, and draw conclusions, yet I const
 
 The app follows the MVVM pattern. Pages/views bind to ViewModels, which call a set of services (entries, tags, templates, insights). The services use a single repository, which is the only code that talks to the SQLite database.
 
-![System diagram](System Diagram.png)
+![System diagram](System_Diagram.png)
 
 ## Tech Stack
 
